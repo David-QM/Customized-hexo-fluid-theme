@@ -1,5 +1,8 @@
-[toc]
-
+- [Introduction](#introduction)
+- [Modifications](#modifications)
+- [Version](#version)
+- [Documentation](#documentation)
+  
 ## Introduction
 This is a customized hexo-fluid theme that features a concise and well-organized style. You can view it [here](https://david-qm.netlify.app/). And you can view the original theme [here](https://hexo.fluid-dev.com/).  
 
